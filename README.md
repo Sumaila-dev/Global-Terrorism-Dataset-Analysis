@@ -38,3 +38,5 @@ This Power BI dashboard project offers an in-depth analysis of the Global Terror
 This dashboard offers an informative and interactive way to visualize the global patterns and impact of terrorism over time.
 
 
+![# Global-Terrorism-Dataset-Analysis](https://github.com/Sumaila-dev/Global-Terrorism-Dataset-Analysis/blob/454852db7a49dc2c64f6636f8eafd0ae7e6a1f64/terrorism.png)
+
